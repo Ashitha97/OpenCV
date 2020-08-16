@@ -9,7 +9,7 @@ the content of digital images such as photographs and videos.
 
 
 
-1 read and write images
+1. How to read and write images
 
 As we know that images are in the form of matrix, in cv we read an image in three forms that is 0,1,-1 where 0 is grey scale, 1 is for colored, -1 is color image with alpha
 
